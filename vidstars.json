@@ -3,9 +3,9 @@
 "version":"1.0",
 "error":"1.0",
 "package":"212",
- "ads":"false",
+ "ads":"true",
  "banner":"x#",
- "inter":"x#",
+ "inter":"ca-app-pub-9003445612045593/7067752526",
  "idAdb":"ca-app-pub-s~6710144083"
 }
 ],
